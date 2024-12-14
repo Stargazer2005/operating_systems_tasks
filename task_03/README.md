@@ -6,3 +6,4 @@ The program reads the name of a Unix command from standard input and runs it. Th
 If you attempt to run more than N applications, give an error message and continue waiting for commands to be entered for execution. The runsim program must terminate when the end-of-file sign occurs on standard input.
 ## Files:
 - `runsim.c` - a program source code
+- `procs.cpp` - a program imitating a long-lasting process
